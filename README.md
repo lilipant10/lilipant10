@@ -1,4 +1,4 @@
-# Hi there, I'm Lili Pant! 👋
+# Hi there, I'm Laxmi Pant! 👋
 Welcome to my GitHub profile! I'm passionate about Business Analytics and Data Analytics. 
 🌱 Currently Learning:** Data Analytics, Generative AI
 👀 Interested in:** Business Analytics
