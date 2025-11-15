@@ -3,7 +3,6 @@ Welcome to my GitHub profile! I'm passionate about Business Analytics and Data A
 🌱 Currently Learning:** Data Analytics, Generative AI
 👀 Interested in:** Business Analytics
 💞️ Looking to Collaborate on:** Data Projects
-📫 Contact Me:** [814-852-8806](tel:+18148528806)
 😄 Pronouns:** She/Her
 ⚡ Fun Fact:** I love to travel!
 
